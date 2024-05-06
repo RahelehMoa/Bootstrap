@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+.header_set{
+    padding: 50px;
+}
+.footer_set{
+    padding: 30px;
+}
+
+.flex_container_customer{
+   margin-top: 20px;
+   margin-left: 3px;
+   margin-right: 3px;
+}
+.customer_set{
+    padding: 10px;
+}
