@@ -1,0 +1,10 @@
+* {
+  direction: rtl;
+  box-sizing: border-box;
+  font-size: medium;
+}
+.container_information {
+  width: 100px;
+  border: 1px solid gray;
+  margin:auto;
+}
